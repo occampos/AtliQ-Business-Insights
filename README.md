@@ -2,7 +2,7 @@
 
 *Project Description:*
 
-In this project I work with data representing AtliQ Technologies, aiming to produce an interactive dashboard that effectively showcases critical business insights. Leveraging *DAX* and *Power Query* in *Power BI*, I organize and present the data in a user-friendly format, facilitating seamless data-driven decision-making. The dashboard is thoughtfully divided into four main perspectives: Finance View, Sales View, Marketing View, and Supply Chain View.
+In this project I work with data representing AtliQ Technologies, aiming to produce an interactive dashboard that effectively showcases critical business insights. Leveraging *DAX* and *Power Query* in *Power BI*, I manipulate and present the data in a user-friendly format, facilitating seamless data-driven decision-making. The dashboard is thoughtfully divided into four main perspectives: Finance View, Sales View, Marketing View, and Supply Chain View.
 
 *Objective:*
 
