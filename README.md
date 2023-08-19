@@ -21,7 +21,7 @@ The Finance View presents a comprehensive breakdown of Profit and Loss, encompas
 ### Sales View
 The Sales View revolves around customer statistics, offering the ability to isolate and analyze individual customers or markets. This enables a deeper understanding of the situation a specific customer or marketing si experiencing. 
 
-![](https://github.com/occampos/AtliQ-Business-Insights/blob/main/Dashboard%20Screenshots/03%20Sales%20View.jpg)
+![](https://github.com/occampos/AtliQ-Business-Insights/blob/main/Dashboard%20Screenshots/03%20Sales%20view.jpg)
 
 ### Marketing View
 The Marketing View emphasizes product statistics and explores optimal marketability strategies, including advertisement budgets and other operational costs.
