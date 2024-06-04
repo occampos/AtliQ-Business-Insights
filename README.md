@@ -1,4 +1,4 @@
-[Project Page](https://occampos.github.io/ChristopherCamposData/index.html)
+[Portfolio Showcase Page](https://occampos.github.io/ChristopherCamposData/index.html)
 
 # AtliQ-Business-Insights
 
